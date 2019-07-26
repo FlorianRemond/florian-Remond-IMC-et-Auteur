@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="calculer_l_imc">Calculate</string>
+    <string name="poids">Weight</string>
+</resources>
